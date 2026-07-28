@@ -1,4 +1,9 @@
-## Hi there 👋
+#### Pentho Segla
+Programmer, gamer, and wannabe artist.
+
+Skills: VUE JS / REACT / JS / HTML / CSS /RUST / JAVA / C# / C / C++
+
+- 🔭 I’m currently working on this page. 
 
 <!--
 **sxsii/sxsii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
